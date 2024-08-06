@@ -28,9 +28,7 @@ ${data.contributing || 'N/A'}
 
 ## Tests
 ${data.tests || 'N/A'}
-[Node Application Terminal](./images/${data.image || 'placeholder.png'})
-
-
+[Node Application Terminal](./images/${data.tests || 'placeholder.png'})
 
 ## Video
 ${data.video ? `[Watch Video Here](${data.video})` : 'N/A'}
