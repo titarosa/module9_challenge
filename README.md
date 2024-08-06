@@ -27,9 +27,7 @@ Fork and clone the repository, Create a branch for your changes., Make changes a
 
 ## Tests
 readme.png
-[Node Application Terminal](./images/placeholder.png)
-
-
+[Node Application Terminal](./images/readme.png)
 
 ## Video
 [Watch Video Here](https://drive.google.com/file/d/1PaWu2HhTMgc9Qx-BlXBrp4MnSaEPVaTn/view?usp=sharing)
